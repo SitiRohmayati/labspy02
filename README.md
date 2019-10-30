@@ -11,4 +11,4 @@ berikut ini adalah hasilnya :
 
 dan berikut flowchartnya :
 
-![Screenshot (106)](https://user-images.githubusercontent.com/56973033/67866926-3bc77080-fb5c-11e9-9b19-36cb62803082.png)
+![Screenshot (108)](https://user-images.githubusercontent.com/56973033/67868828-1851f500-fb5f-11e9-84f9-c29a8f4f6400.png)
