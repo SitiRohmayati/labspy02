@@ -10,5 +10,6 @@ berikut ini adalah hasilnya :
 ![Screenshot (104)](https://user-images.githubusercontent.com/56973033/67866521-a88e3b00-fb5b-11e9-9d32-ced185d3ac2c.png)
 
 dan berikut flowchartnya :
+![Screenshot (109)](https://user-images.githubusercontent.com/56973033/68080117-18841600-fe27-11e9-80b7-c130faf05aad.png)
 
-![Screenshot (108)](https://user-images.githubusercontent.com/56973033/67868828-1851f500-fb5f-11e9-84f9-c29a8f4f6400.png)
+
